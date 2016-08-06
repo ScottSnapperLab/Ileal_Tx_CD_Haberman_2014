@@ -70,6 +70,9 @@ target/
 .ipynb_checkpoints/
 
 # exclude PROCESSED data from source control by default
-# /data/
-/data/interim
-/data/processed
+/data/
+# /data/interim
+# /data/processed
+
+# Ignore the VIPER directory
+# /viper/
